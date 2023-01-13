@@ -1,0 +1,17 @@
+Category	Number	Accuracy
+Total	2985	0.202345
+bedroom	116	0.232759
+coast	260	0.519231
+forest	228	0.114035
+highway	160	0.587500
+industrial	211	0.061611
+insidecity	208	0.052885
+kitchen	110	0.054545
+livingroom	189	0.111111
+mountain	274	0.109489
+office	115	0.095652
+opencountry	310	0.287097
+store	215	0.000000
+street	192	0.442708
+suburb	141	0.269504
+tallbuilding	256	0.070312
